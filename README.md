@@ -28,7 +28,7 @@ Files used:
 
 ### Sales Dashboard
 
-![Sales Dashboard](dashboards/sales-dashboard.png)
+![Sales Dashboard](Dashboards/Final Assignment - Sales.png)
 
 This dashboard shows:
 
@@ -40,7 +40,7 @@ This dashboard shows:
 
 ### Service Dashboard
 
-![Service Dashboard](dashboards/service-dashboard.png)
+![Service Dashboard](Dashboards/Final Assignment - Service.png)
 
 This dashboard focuses on service-related insights such as:
 
